@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
         { text: "Новая лимитированная коллекция кроссовок ", img: "Nike.jpg" },
         { text: "Что сегодня?", img: "today.jpg" },
         { text: "Новое весеннее меню!", img: "Menu.jpg" },
-        { text: "Успей попробовать", img: "Now.svg" },
-        { text: "Последний день в городе!", img: "concert.svg" },
-        { text: "Цифровая эпоха", img: "twitch.svg" },
+        { text: "Успей попробовать", img: "now.jpg" },
+        { text: "Последний день в городе!", img: "concert.jpg" },
+        { text: "Цифровая эпоха", img: "twitch.jpg" },
     ]
     
     
